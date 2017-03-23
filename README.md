@@ -1,3 +1,3 @@
-# goncom.github.io
-[Repositorio]: https://github.com/GonCom/Java
-# En construcción
+## goncom.github.io
+[Repositorio]:https://github.com/GonCom/Java
+### En construcción
